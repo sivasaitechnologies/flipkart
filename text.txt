@@ -5,4 +5,7 @@ ecity
 Devops
 Git
 Docker
+jenkines
+Openshift
+
 
